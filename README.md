@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Adriana Guedes
 
 - 🔭 Desde 01/2022 estagiando como desenvolvedora Web Fullstack
-- 🌱 Cusando Analise e desenvolvimento de sistemas
-- 🌱 Cusando especialização em Front End pela House Digital
+- 🌱 Cursando Analise e desenvolvimento de sistemas
+- 🌱 Cursando especialização em Front End pela House Digital
 
 
 <div align="center">

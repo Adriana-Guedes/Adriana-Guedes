@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Adriana Guedes
 
-  🔭 Desenvolvedora trainee desde 03/2022 
+- 🔭 Desenvolvedora trainee desde 03/2022 
 - 🌱 Cursando Analise e desenvolvimento de sistemas
 - 🌱 Cursando de fullstack pela House Digital
 

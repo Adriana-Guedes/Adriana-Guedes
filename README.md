@@ -2,7 +2,7 @@
 
 - 🔭 Desenvolvedora trainee desde 03/2022 
 - 🌱 Cursando Analise e desenvolvimento de sistemas
-- 🌱 Cursando de fullstack pela House Digital
+- 🌱 Cursando fullstack web pela House Digital
 
 
 <div align="center">

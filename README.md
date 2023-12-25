@@ -2,7 +2,7 @@
 
 - 🔭 Desenvolvedora trainee desde 03/2022 
 - 🌱 Formada em Analise e desenvolvimento de sistemas
-- 🌱 Certificado de desenvolvedora fullstack  pela House Digital
+
 
 
 <div align="center">

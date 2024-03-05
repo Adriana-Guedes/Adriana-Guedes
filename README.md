@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Adriana Guedes
 
-- 🔭 Desenvolvedora trainee desde 03/2022 
+- 🔭 Analista de desenvolvimento de sistemas desde 03/2022 
 - 🌱 Formada em Analise e desenvolvimento de sistemas
 
 

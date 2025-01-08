@@ -1,13 +1,15 @@
 ### Olá! Eu sou a Adriana Guedes
 
-- 🔭 Analista de desenvolvimento de sistemas desde 03/2022 
-- 🌱 Formada em Analise e desenvolvimento de sistemas
+- 🔭 Profissional de tecnologia com experiência em desenvolvimento de sistemas, análise de processos, suporte técnico e atendimento ao cliente. Formação em Análise e Desenvolvimento de Sistemas complementada por diversos cursos e bootcamps em 
+     tecnologias como Java, Spring Boot, Angular, banco de dados (SQL e NoSQL), Linux, Kubernetes. Buscando oportunidades para aplicar minhas habilidades em desenvolvimento e contribuir para projetos inovadores.
+  
+- 🌱 Formada em Analise e desenvolvimento de sistemas.
 
 
 <div align="center">
   <a href="https://github.com/Adriana-Guedes">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Adriana-Guedes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Guedes&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adriana-Guedes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Guedes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 

@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Adriana Guedes
 
 - 🔭 Profissional de tecnologia com experiência em desenvolvimento de sistemas, análise de processos, suporte técnico e atendimento ao cliente. Formação em Análise e Desenvolvimento de Sistemas complementada por diversos cursos e bootcamps em 
-     tecnologias como Java, Spring Boot, Angular, banco de dados (SQL e NoSQL), Linux, Kubernetes. Buscando oportunidades para aplicar minhas habilidades em desenvolvimento e contribuir para projetos inovadores.
+     tecnologias como Java, Spring Boot, React, Angular, banco de dados (SQL e NoSQL), Linux, Kubernetes. Buscando oportunidades para aplicar minhas habilidades em desenvolvimento e contribuir para projetos inovadores.
   
 - 🌱 Formada em Analise e desenvolvimento de sistemas.
 

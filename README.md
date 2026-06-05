@@ -24,7 +24,9 @@
   <img align="center" alt="Drika-CSHARP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
  <!-- n8n -->
-  <img align="center" alt="Drika-N8N" height="30" width="40" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png">
+ 
+  <img align="center" alt="n8n" height="30" width="40" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png">
+
 
   <!-- OpenAI -->
   <img align="center" alt="Drika-OPENAI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg">

@@ -22,26 +22,10 @@
   <img align="center" alt="Drika-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Drika-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Drika-CSHARP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
- <!-- n8n -->
- 
-  <img align="center" alt="n8n" height="30" width="30" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png">
-  <img align="center" alt="n8n" height="40" width="30" src="tps://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" style="background-color: black; padding: 6px; border-radius: 8px; filter: invert(1)">
 
-
-  <!-- OpenAI -->
-  
- <img align="center" alt="Drika-OpenAI" height="60" width="40" src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white">
-
-
-
-  <!-- Python (IA) -->
+  <img align="center" alt="n8n" height="30" width="30" src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white">
+  <img align="center" alt="Drika-OpenAI" height="40" width="40" src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white">
   <img align="center" alt="Drika-IA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-  <!-- Node (automação) -->
-  <img align="center" alt="Drika-NODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-
-  <!-- APIs -->
   <img align="center" alt="Drika-APIS" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png">
 
 

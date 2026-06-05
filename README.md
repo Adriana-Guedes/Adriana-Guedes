@@ -25,7 +25,7 @@
   
  <!-- n8n -->
  
-  <img align="center" alt="n8n" height="30" width="45" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png">
+  <img align="center" alt="n8n" height="30" width="60" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png">
 
 
   <!-- OpenAI -->

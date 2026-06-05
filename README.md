@@ -29,7 +29,10 @@
 
 
   <!-- OpenAI -->
-  <img align="center" alt="Drika-OPENAI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg">
+  
+ <img align="center" alt="OpenAI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg"
+       style="filter: invert(1);">
+
 
   <!-- Python (IA) -->
   <img align="center" alt="Drika-IA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

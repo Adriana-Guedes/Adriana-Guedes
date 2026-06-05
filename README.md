@@ -31,7 +31,7 @@
 
   <!-- OpenAI -->
   
- <img align="center" alt="OpenAI" height="30" width="40" src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white">
+ <img align="center" alt="Drika-OpenAI" height="40" width="40" src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white">
 
 
 
@@ -44,8 +44,6 @@
   <!-- APIs -->
   <img align="center" alt="Drika-APIS" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png">
 
-  <!-- Cloud -->
-  <img align="center" alt="Drika-CLOUD" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/4144/4144519.png">
 
   
 </div>

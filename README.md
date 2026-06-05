@@ -17,10 +17,10 @@
   <img align="center" alt="Drika-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Drika-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Drika-CSHARP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Drika-OpenAI" height="40" width="40" src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white">
+  <img align="center" alt="Drika-OpenAI" height="50" width="60" src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white">
   <img align="center" alt="Drika-IA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Drika-APIS" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png">
-  <img align="center" alt="n8n" height="50" width="50" src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white">
+  <img align="center" alt="n8n" height="50" width="60" src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white">
 
 
   

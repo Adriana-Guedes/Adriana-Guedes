@@ -31,7 +31,7 @@
 
   <!-- OpenAI -->
   
- <img align="center" alt="OpenAI" height="30" width="40" c="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" style="background-color: black; padding: 6px; border-radius: 8px; filter: invert(1)">
+ <img align="center" alt="OpenAI" height="30" width="40" src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white">
 
 
 

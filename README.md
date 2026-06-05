@@ -26,12 +26,13 @@
  <!-- n8n -->
  
   <img align="center" alt="n8n" height="30" width="30" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png">
+  <img align="center" alt="n8n" height="40" width="30" src="tps://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" style="background-color: black; padding: 6px; border-radius: 8px; filter: invert(1)">
 
 
   <!-- OpenAI -->
   
- <img align="center" alt="OpenAI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg"
-       style="filter: invert(1);">
+ <img align="center" alt="OpenAI" height="30" width="40" c="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" style="background-color: black; padding: 6px; border-radius: 8px; filter: invert(1)">
+
 
 
   <!-- Python (IA) -->

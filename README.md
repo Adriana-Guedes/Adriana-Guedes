@@ -31,7 +31,7 @@
 
   <!-- OpenAI -->
   
- <img align="center" alt="Drika-OpenAI" height="40" width="40" src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white">
+ <img align="center" alt="Drika-OpenAI" height="60" width="40" src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white">
 
 
 

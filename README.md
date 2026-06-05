@@ -23,10 +23,25 @@
   <img align="center" alt="Drika-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Drika-CSHARP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
-          
- 
- 
-    
+ <!-- n8n -->
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png">
+
+  <!-- OpenAI -->
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg">
+
+  <!-- Python (IA) -->
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+  <!-- Node (automação) -->
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+
+  <!-- APIs -->
+  <img align="center" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png">
+
+  <!-- Cloud -->
+  <img align="center" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/4144/4144519.png">
+
+  
 </div>
   
    ##
